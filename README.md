@@ -1,1 +1,1 @@
-some HTML and Css Practice notes.
+Some HTML and Css Practice notes.
