@@ -1,1 +1,1 @@
-# first-website
+some HTML and Css Practice notes.
